@@ -67,9 +67,9 @@ After the iterative process converged, the model achieved a high accuracy score 
 
 | Parameter | Symbol | Learned Value | Description |
 | --- | --- | --- | --- |
-| **Mean** |  | **19.748498** | The central value where the probability is highest. |
-| **Lambda** |  | **0.003415** | Determines the steepness/width of the bell curve. |
-| **Constant** |  | **0.031988** | The maximum probability density at the peak. |
+| **Mean** | $\mu$ | **19.748498** | The central value where the probability is highest. |
+| **Lambda** | $\lambda$ | **0.003415** | Determines the steepness/width of the bell curve. |
+| **Constant** | $c$ | **0.031988** | The maximum probability density at the peak. |
 
 ### Model Accuracy
 
